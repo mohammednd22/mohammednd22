@@ -32,13 +32,12 @@ Welcome to my GitHub! I'm passionate about building scalable systems and explori
 
 ---
 
-## 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/mohammednd)
-- [Portfolio](https://www.mohammednd.com/)
+## 📫 Contact & Links
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammednd)
 
-## 📫 Contact
-Feel free to reach out via email: **mohammednd522@gmail.com**
+**Visit my Website:** [mohammednd.com](https://www.mohammednd.com/)
+
+**Email:** mohammednd522@gmail.com
 
 ---
