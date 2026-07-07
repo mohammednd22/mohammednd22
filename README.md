@@ -1,5 +1,5 @@
 ![Banner](github-header-banner.png)
-### 👨‍💻 Software Engineer & MSCS Student @ Northeastern University
+### 👨‍💻 Software Engineer & MSCS @ Northeastern University
 Welcome to my GitHub! I'm passionate about building scalable systems and exploring the intersection of AI and engineering. Currently learning about ML and GenAI.
 
 ---
